@@ -43,6 +43,8 @@ CYBER_KEYWORDS = [
     "junior security", "graduate security",
     "security associate", "security officer",
     "security advisor", "security lead",
+    "forward deployed engineer", "forward deployed",
+    "fde",
 ]
 
 # ── Location Lists ─────────────────────────────────────────────────────────
