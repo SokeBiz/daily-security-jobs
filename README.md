@@ -8,7 +8,7 @@ Filters for **EU/EMEA/Remote** positions (excludes UK, US, India, Canada, Austra
 
 -   **8 platform scrapers** — Ashby, Greenhouse, Lever, Personio, Recruitee, Amazon, Workday (PwC, Deloitte), Accenture (Workday + JSON-LD)
 -   **Location filtering** — EU/EEA/EMEA + Remote only; excludes UK, US, India, CA, AU, JP, SG
--   **Keyword matching** — 70+ security/cyber keywords (SOC, pentest, cloud security, devsecops, GRC, IAM, etc.)
+-   **Keyword matching** — 125+ security/cyber keywords (SOC, pentest, cloud security, devsecops, GRC, IAM, vulnerability management, threat intel, fraud, trust & safety, zero trust, SIEM/EDR/XDR, compliance, audit, etc.)
 -   **Time filter** — configurable lookback window (default 24h)
 -   **DOCX output** — formatted report with job title, company, location, description, and apply link
 -   **Add companies easily** — just edit `companies.json` with the company's ATS board token

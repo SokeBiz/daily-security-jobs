@@ -45,6 +45,25 @@ CYBER_KEYWORDS = [
     "security advisor", "security lead",
     "forward deployed engineer", "forward deployed",
     "fde",
+    # ── Role expansion (vuln mgmt, threat intel, fraud, GRC, tooling) ──
+    "forward deployed architect",
+    "vulnerability manager", "vulnerability management",
+    "vulnerability analyst", "vulnerability researcher",
+    "threat intelligence", "threat hunter", "threat hunting",
+    "offensive security", "purple team",
+    "siem", "edr", "xdr", "mdr", "soar", "dlp",
+    "cspm", "sast", "dast", "waf",
+    "endpoint security", "endpoint detection",
+    "zero trust", "privileged access", "identity and access",
+    "fraud", "fraud analyst", "fraud detection",
+    "trust and safety", "trust & safety", "abuse",
+    "incident responder",
+    "third party risk", "vendor risk", "supply chain security",
+    "security governance", "governance and compliance",
+    "iso 27001", "iso27001", "nist", "gdpr",
+    "compliance manager", "compliance analyst", "compliance specialist",
+    "it auditor", "security auditor", "internal auditor",
+    "bug bounty", "smart contract",
 ]
 
 # ── Location Lists ─────────────────────────────────────────────────────────
